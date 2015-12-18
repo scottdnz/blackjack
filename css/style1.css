@@ -3,6 +3,7 @@
 #containerMain {
   width: 960px;
   margin: auto;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
@@ -49,3 +50,23 @@ h1 {
 #betAmount {
   margin-right: 120px;
 }
+
+#btnHit {
+  margin-left: 60px;
+  margin-right: 10px;
+  /*background-color: green;*/
+}
+
+/*#btnStand {
+  background-color: red;
+}*/
+
+.actionBtn:hover {
+  background-color: gray;
+  cursor: pointer;
+}
+
+.actionBtn {
+  width: 60px;
+}
+

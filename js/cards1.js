@@ -1,4 +1,6 @@
-/* js doc */
+/* js doc
+Requires jQuery.
+ */
 
 var i,
   j,
