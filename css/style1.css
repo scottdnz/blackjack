@@ -1,0 +1,51 @@
+/* CSS Doc */
+
+#containerMain {
+  width: 960px;
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.hdrName {
+  display: inline;
+}
+
+.hdrCredits {
+  margin-left: 300px;
+}
+
+.cardsRow {
+  display: inline;
+}
+
+
+
+.cardBox {
+  width: 95px;
+  display: inline;
+  height: 136px;
+}
+
+.cardImg:hover {
+  background-color: gray;
+  cursor: pointer;
+}
+
+.cardImg {
+  width: 75px;
+  height: 116px;
+  padding: 10px;
+  background-color: pink;
+}
+
+.btnArrow {
+  height: 40px;
+  width: 40px;
+}
+
+#betAmount {
+  margin-right: 120px;
+}
