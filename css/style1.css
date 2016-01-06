@@ -20,6 +20,9 @@ h1 {
 
 .cardsRow {
   display: inline;
+  width:100%; 
+  clear:both;
+  height: 116px;
 }
 
 
